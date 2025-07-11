@@ -1,4 +1,4 @@
 package ControlandoFluxoDaApliação.Exercicio04;
 
-public class condicional2 {
+public class PositivoNegativo {
 }

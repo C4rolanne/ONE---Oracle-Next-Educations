@@ -1,4 +1,7 @@
-package criandoaplicacao.exercicio01;
+package Criandoaplicacao.exercicio01;
 
-public class Soma {
+public class Soma{
+    public static void main(String[] args) {
+        System.out.println(10 + 20);
+    }
 }
